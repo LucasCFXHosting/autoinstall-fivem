@@ -26,7 +26,7 @@ Before running the script, ensure the following:
     Execute the installer script by running:
     
     ```bash
-    <(curl -s https://raw.githubusercontent.com/LucasCFXHosting/autoinstall-fivem/refs/heads/main/setup.sh)`` 
+    bash <(curl -s https://raw.githubusercontent.com/LucasCFXHosting/autoinstall-fivem/refs/heads/main/setup.sh)`` 
     
 
 ----------

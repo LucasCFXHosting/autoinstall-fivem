@@ -20,13 +20,13 @@ Before running the script, ensure the following:
 1. **Update and Prepare Your Server**  
    Open your terminal and run the following commands to update your system and install `curl`:
    ```bash
-   apt update -y && apt full-upgrade -y && apt install curl -y`` 
+   apt update -y && apt full-upgrade -y && apt install curl -y
 
 2.  **Run the Auto-Installer Script**  
     Execute the installer script by running:
     
     ```bash
-    bash <(curl -s https://raw.githubusercontent.com/LucasCFXHosting/autoinstall-fivem/refs/heads/main/setup.sh)`` 
+    bash <(curl -s https://raw.githubusercontent.com/LucasCFXHosting/autoinstall-fivem/refs/heads/main/setup.sh) 
     
 
 ----------
